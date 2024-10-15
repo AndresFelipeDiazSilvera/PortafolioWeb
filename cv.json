@@ -1,25 +1,25 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "name": "Andres Felipe Diaz Silvera",
+    "label": "Junior Full Stack Developer, Junior Game Developer, Junior Game Designer",
+    "image": "/foto_diaz.jpg",
+    "email": "diazilvera1@gmail.com",
+    "phone": "https://wa.me/573162282792",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Desarrollador especializado en desarrollo web y videojuegos, con amplia experencia en frameworks como Angular, React y ASP.NET, así como en herramientas como Typescript, JavaScript, HTML, CSS, C, Java y Python. Experto en integrar tecnologías web con bases de datos relacionales (Postgres,MYSQL) y no relacionales (MongoDB). Competente en gestión de versiones con Git y en la implementación de prácticas de integración continua. En el ámbito de los videojuegos, utilizo C# y Unity, y poseo conocimientos en C++, Blueprints en Unreal Engine. Comprometido con el aprendizaje continuo y la adopción de nuevas tecnologías para conribuir a proyectos innovadores.",
     "theme": "default",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Tunja",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "andresdiaz",
+        "url": "https://www.linkedin.com/in/andres-felipe-diaz-silvera-250a0b234/"
       },
       {
         "network": "X",
@@ -29,141 +29,174 @@
       {
         "network": "GitHub",
         "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "url": "https://github.com/AndresFelipeDiazSilvera"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "COMFABOY",
+      "position": "Practicante Ingeniero de Sistemas",
+      "location_type": "Hibrido",
+      "location": "Tunja, Boyacá",
+      "url": "https://www.comfaboy.org/",
+      "startDate": "2024-05-15",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Contrato de prácticas en la Empresa Caja de Compensación Familiar De Boyacá (COMFABOY) ) en donde se esta adquiriendo conocimientos en el campo de la calidad de software bajo los estándares de calidad internacionales para la documentación de los sistemas de información de la empresa.",
       "highlights": [
         "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Hit Data S.A.S",
+      "position": "Junior Front-End Developer",
+      "location_type": "Hibrido",
+      "location": "Tunja, Boyacá",
+      "url": "https://hitdata.com.co/",
+      "startDate": "2023-08-10",
+      "endDate": "2023-11-08",
+      "summary": "Contrato de prácticas de 4 meses de duración, realizada entre agosto y noviembre del año 2023 en la Agencia de Marketing y Publicidad Hit Data S.A.S con el rol de desarrollador junior front-end; se adquirió conocimientos avanzados en la herramienta Typescript en base al framework de React, tambien se adquirieron conocimientos avanzados en la herramienta de diseño CSS con su framework llamado tailwind css para darle estilo a la plataforma web trabajada.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Implementar componentes interactivos utilizando React y TypeScript, asegurando una experiencia de usuario fluida e intuitiva.",
+        "Diseñar y aplicar estilos consistentes en la plataforma utilizando Tailwind CSS, mejorando la apariencia y usabilidad del sitio web.",
+        "Colaborar con el equipo de desarrollo para integrar los elementos del front-end con el back-end de la aplicación.",
+        "Participar en la planificación y ejecución de pruebas para garantizar la calidad del producto final."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Desarrollo exitoso del front-end del aplicativo, que permitió a los usuarios acceder fácilmente a información relevante sobre elecciones regionales.",
+        "Mejora de la experiencia de usuario al implementar estilos personalizados y consistentes mediante Tailwind CSS, lo que aumentó la satisfacción y usabilidad del sitio.",
+        "Adquisición de conocimientos avanzados en TypeScript y React, contribuyendo al desarrollo de componentes reutilizables y mantenibles.",
+        "Participación activa en el ciclo completo de desarrollo del proyecto, contribuyendo a la entrega del producto en tiempo y forma.",
+        "Contribución al aumento del tráfico y uso del aplicativo durante el periodo de elecciones, gracias a un diseño atractivo y una interfaz amigable." 
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
+        "React",
+        "CSS",
+        "Tailwind",
+        "Git",
+        "Node",
         "HTML",
-        "CSS"
+        "GitHub",
+        "TypeScript"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
+
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Universidad Santo Tomás Seccional Tunja",
+      "url": "https://www.santototunja.edu.co/",
+      "area": "Ingeniería de Sistemas",
+      "studyType": "Universitario",
+      "startDate": "2020-02-01",
+      "endDate": "2025-03-10",
+      "score": "4.6",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
+      "institution": "Colegio San Viator Tunja",
+      "url": "https://www.sanviatortunja.edu.co/",
+      "area": "Bachillerato",
+      "studyType": "Bachillerato",
+      "startDate": "2017-06-01",
+      "endDate": "2019-11-30",
       "score": "3.9",
       "courses": [
         "SE201 - Advanced Software Development",
         "SE202 - Software Architecture and Design"
       ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Angular: De cero a experto",
+      "date": "2023-12-31",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-702d3d32-3f29-4b14-b01d-8156ed6bd8d1/"
+    },
+    {
+      "name": "Máster en Programación de Videojuegos con Unity 6 y C# 2024 ",
+      "date": "2024-01-31",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-fb989ad0-9061-43bc-afff-0fcbd107a94c/"
+    },
+    {
+      "name": "WORKSHOP ISO 27001 ",
+      "date": "2024-04-07",
+      "issuer": "HackerMentor",
+      "url": "https://credsverse.com/credentials/5c3c8966-2a18-44b4-b214-a0e5d77d6133"
+    },
+    {
+      "name": "Introduction to Game Design",
+      "date": "2024-05-27",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/KGLFEDVXBH7C"
+    },
+    {
+      "name": "Generative AI: Prompt Engineering",
+      "date": "2024-05-22",
+      "issuer": "Coursera and IBM",
+      "url": "https://www.credly.com/earner/earned/badge/d59ceb97-6dfc-409d-843d-83a18b58150f"
+    },
+    {
+      "name": "Introducción a la Inteligencia Artificial (IA)",
+      "date": "2024-05-23",
+      "issuer": "Coursera",
+      "url": "https://www.credly.com/earner/earned/badge/e25ea4ee-cdab-4539-b6e3-6071618beb7f"
+    },
+    {
+      "name": "Unreal Engine 5: Curso de Desarrollo con Blueprints",
+      "date": "2024-06-06",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-b57395ee-77e1-45b1-a2a3-5e094f4941ac/"
+    },
+    {
+      "name": "Game Design and Development 1: 2D Shooter",
+      "date": "2024-06-28",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/DMC5RXZ7ZZQY"
+    },
+    {
+      "name": "Curso de Vue.js: Introducción y Fundamentos",
+      "date": "2024-06-22",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/d1asu/curso/2819-vuejs/diploma/detalle/"
+    },
+    {
+      "name": "Curso de Introducción a DevOps",
+      "date": "2024-07-12",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/d1asu/curso/4558-introduccion-devops/diploma/detalle/"
+    },
+    {
+      "name": "Game Design and Development 2: 2D Platformer",
+      "date": "2024-08-12",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/V2VQ75DBUBWG"
+    },
+    {
+      "name": "Game Design and Development 2: 2D Platformer",
+      "date": "2024-08-12",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/V2VQ75DBUBWG"
+    },
+    {
+      "name": " Curso de Next.js 14",
+      "date": "2024-08-04",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/d1asu/curso/8847-nextjs-14/diploma/detalle/"
+    },
+    {
+      "name": "Curso de Creación de Páginas Web con Astro",
+      "date": "2024-09-24",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/d1asu/curso/6207-astro/diploma/detalle/"
     }
   ],
   "skills": [
@@ -290,6 +323,51 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Beginner",
+      "keywords": [
+        "Mobile Development",
+        "Java",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Unity",
+      "level": "Beginner",
+      "keywords": [
+        "Video Game Develop",
+        "Video Game Desing"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Fullstack",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Unreal",
+      "level": "Beginner",
+      "keywords": [
+        "Video Game Develop",
+        "Video Game Desing",
+        "BluePrints"
+      ]
+    },
+    {
+      "name": "ASP .NET",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
     }
   ],
   "languages": [
@@ -319,46 +397,73 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Super Space-Stronaut",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "videojuego 2d que consiste en recorrer una nave espacial y destruir enemigos",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Construido en Unity en lenguaje de programación C#",
+        "El juego corre tanto en web y plataforma de PC"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://d1asu.itch.io/super-space"
     },
     {
-      "name": "Task Manager",
+      "name": "CodePathLab",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Proyecto universitario donde se desarrolló una aplicación móvil con actividades interactivas de preguntas con límite de tiempo para mejorar habilidades en programación. Incluye desafíos, cuestionarios dinámicos y un chatbot de inteligencia artificial en tiempo real para asistir a los usuarios con sus dudas.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Construido con Kotlin, Python y tambien usando Inteligencia Artificial con Ollama"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://youtu.be/SkhNlG7ozf8?si=MC_vrC0QZo1vKNEI"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "FreezeWatch Hackathon-NASA",
+      "isActive": true,
+      "description": "Participación en la Hackathon NASA Space Apps Tunja 2024 donde en el grupo se realizo una aplicación web para que los campesinos detecten las próximas heladas que afectarán sus cultivos.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Construido en Python y NodeJS",
+        "Tambien se creo una red reunoral utilzando Machine Learning"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/sebastian-squad/?tab=details",
+      "github": "https://github.com/AndresFelipeDiazSilvera/Hackathon-NASA"
+    },
+    {
+      "name": "2D Shooter",
+      "isActive": true,
+      "description": "videojuego 2d que consiste en disparar enemigos mientras te mueves por el mapa al estilo space invaders.",
+      "highlights": [
+        "Construido en Unity en lenguaje de programación C#",
+        "El juego corre tanto en web y plataforma de PC"
+      ],
+      "url": "https://d1asu.itch.io/2d-shooter"
+    },
+    {
+      "name": "astrobuild.tips",
+      "isActive": true,
+      "description": "Página creada en el framework de javascript AstroJS donde se conocieron sus funcionalides y como crear sitios webs estáticos.",
+      "highlights": [
+        "Construido en AstroJS",
+        "Blog de prueba"
+      ],
+      "url": "https://astrobuild-tips-6iu.pages.dev/posts/",
+      "github": "https://github.com/AndresFelipeDiazSilvera/astrobuild.tips"
+    },
+    {
+      "name": "NutryDairy",
+      "isActive": false,
+      "description": "Proyecto universitario donde se aplicaron conocimientos en ASP .NET para una vitrina comercial.",
+      "highlights": [
+        "Construido en ASP .NET y C#"
+      ],
+      "github": "https://github.com/Santiago-hernandez-Molina/NutryDairy"
+    },
+    {
+      "name": "Gifs-App",
+      "isActive": true,
+      "description": "Página Web creada en el framework de javascript Angular donde es una pagina web de buscar gifs con historial de busqueda.",
+      "highlights": [
+        "Construido en Angular"
+      ],
+      "url": "https://remarkable-cactus-8f5c92.netlify.app"
     }
   ]
 }
